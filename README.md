@@ -26,3 +26,4 @@
 
 #### O(nlogn)
 
+[Merge Sort Dersi](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/merge-sort-proje)
